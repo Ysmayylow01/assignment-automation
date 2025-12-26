@@ -291,7 +291,7 @@ Bu taslama MIT Licensiýasy astynda paýlanýar. Jikme-jik maglumat üçin `LICE
 
 ## 👨‍💻 Awtor
 
-**Your Name**
+**Merdan Ysmayylov**
 - GitHub: [@Ysmayylow Merdan](https://github.com/Ysmayylow01)
 - Email: merdanysmayylow25@gmail.com
 
